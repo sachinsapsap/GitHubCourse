@@ -7,6 +7,7 @@ public class LoginPage {
 		System.out.println("Hello LP");
 		
 		System.out.println("Logged in");
+		System.out.println("Logged out");
 	}
 
 }
