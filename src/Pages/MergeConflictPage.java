@@ -5,7 +5,7 @@ public class MergeConflictPage {
 	public static void main(String[] args) {
 	
 
-		System.out.println("COnflicts resolved");
+		System.out.println("COnflicts new");
 
 
 	}
